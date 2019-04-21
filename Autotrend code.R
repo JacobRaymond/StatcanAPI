@@ -4,7 +4,7 @@ start_time <- Sys.time()
 pacman::p_load(officer, magrittr,  formattable,  httr, zoo, ggplot2)
 
 #Configure proxy and working directory
-set_config(use_proxy(url="cdhwg01.prod.prv",port=80))
+set_config(use_proxy(#Proxy Infor Here))
 setwd("P:\\API\\LSID")
 
 Vectors<-read.csv("Vector.csv")
@@ -25,9 +25,9 @@ uom<-data.frame("code"=c(1:361, 888), "def"=c("1981=100", "198203=100", "1986=10
                                               "2010=100", "201104=100", "2012 constant dollars", "2012/01=100", "2013=100", "access lines", "accidents", "ac", "age-sex-standardized rate per 100,000 population", "age-standardized rate per 100,000 population",
                                               "agreements", "average hours per day", "bankruptcies", "bbl", "bbl/day", "benefit periods", "birds", "births", "blocks", "fbm",
                                               "bricks", "bsh", "bsh/ac", "businesses", "calves", "Canada=100", "CAD", "CAD/cwt", "CAD per unit of foreign currency", "carriers",
-                                              "cars", "cassettes", "cattle", "¢/doz", "¢", "¢/m^3", "¢/l", "¢/lb", "¢ per pound of butter fat", "chained (2002) dollars",
+                                              "cars", "cassettes", "cattle", "Â¢/doz", "Â¢", "Â¢/m^3", "Â¢/l", "Â¢/lb", "Â¢ per pound of butter fat", "chained (2002) dollars",
                                               "chained (2002) dollars per hour", "chained (2007) dollars per thousands", "chained (2007) dollars per hour", "chicks", "children", "cigarettes", "cigars", "claims", "corporations", "corporations",
-                                              "crude rate per 100,000 population", "m^3", "m^3 dry", "yd^3", "current dollars", "customers", "days", "°C", "discs", "$/100lb",
+                                              "crude rate per 100,000 population", "m^3", "m^3 dry", "yd^3", "current dollars", "customers", "days", "Â°C", "discs", "$/100lb",
                                               "$", "$/1.18kg", "$/10kg", "$/10l", "$ per 10 x 400g", "$/10,000ft", "$/15g", "$/2kg", "$/2.5kg", "$/20kg",
                                               "$/20l", "$/205l", "$/22.7l", "$/25kg", "$/3kg", "$/3.3l", "$/4l", "$/4.45l", "$/5l", "$/8l",
                                               "$/9l", "$/9000ft", "$/9.5l", "$/bsh", "$/carton", "$/doz", "$/h", "$/cwt", "$/cwt", "$/cwt",
@@ -55,7 +55,7 @@ uom<-data.frame("code"=c(1:361, 888), "def"=c("1981=100", "198203=100", "1986=10
                                               "2007 chained dollars", "2014 constant dollars", "km^3", "(2015=100)", "ct", "gr", "hl", "kg of named substance", "air dry kilograms", "l of pure alcohol",
                                               "l", "m^2", "m^3", "m", "MWh", "packages", "m^3 X1000", "mt", "mt dry air", "doz",
                                               "g", "kg", "blank", "pairs", "2015 constant dollars", "(2014=100)", "index (201612=100)", "index (2012=100)", "available seat-kilometres", "2016 constant dollars",
-                                              "index (2014=100)", "ng/l", "µmol/mmol", "µmol/l", "mg/l", "µg/m^3", "M.ft.b.m", "basis points", "$/g", "cm",
+                                              "index (2014=100)", "ng/l", "Âµmol/mmol", "Âµmol/l", "mg/l", "Âµg/m^3", "M.ft.b.m", "basis points", "$/g", "cm",
                                               "kg/m^2","" ))
 ####Functions####
 
