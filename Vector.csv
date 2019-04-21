@@ -1,0 +1,29 @@
+NAICS/NAPCS,Indicator,Vector,Type of Series,Number of Years,Group,Deck Title,Name of Group
+All industries,Gross Domestic Product,v65201210,Indexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Manufacturing,Gross Domestic Product,v65201263,Indexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Pharmaceutical and medicine manufacturing,Gross Domestic Product,v65201297,Indexed,10,Y,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Goods producing industries,Employment,v54026326,Indexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Manufacturing,Employment,v54026392,Indexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Pharmaceutical and medicine manufacturing,Employment,v54026480,Indexed,10,Y,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Goods producing industries,Average Weekly Earnings,v54026325,Unindexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Manufacturing,Average Weekly Earnings,v54026391,Unindexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Pharmaceutical and medicine manufacturing,Average Weekly Earnings,v54026479,Unindexed,10,Y,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+All industries,Imports,v1001826347,Indexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Consumer goods,Imports,v1001826467,Indexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Pharmaceutical and medicinal products,Imports,v1001826487,Indexed,10,Y,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+All industries,Exports,v1001826959,Indexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Consumer goods,Exports,v1001827079,Indexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Pharmaceutical and medicinal products,Exports,v1001827099,Indexed,10,Y,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Manufacturing,Sales of goods manufactured,v800025,Indexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Pharmaceutical and medicinal manufacturing,Sales of goods manufactured,v800188,Indexed,10,Y,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Manufacturing,Industrial product price index,v79310246,Unindexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Pharmaceutical and medicine manufacturing,Industrial product price index,v79310424,Unindexed,10,Y,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+All industries,Operating revenue,v3870447,Indexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Non-financial industries,Operating revenue,v3870449,Indexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Pharmaceutical and medicine manufacturing,Operating revenue,v29510440,Indexed,10,Y,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+All industries,Operating profit margin,v3871827,Unindexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Non-financial industries,Operating profit margin,v3871829,Unindexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Pharmaceutical and medicine manufacturing,Operating profit margin,v29511238,Unindexed,10,Y,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+All industries,Return on Equity ,v3871887,Unindexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Non-financial industries,Return on Equity ,v3871889,Unindexed,10,N,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
+Pharmaceutical and medicine manufacturing,Return on Equity ,v29511276,Unindexed,10,Y,Growth trends in the Canadian Pharmaceutical Manufacturing Sector,Pharmaceutical Manufacturing
