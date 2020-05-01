@@ -5,8 +5,8 @@ pacman::p_load(officer, magrittr,  formattable,  httr, zoo, ggplot2)
 
 #Configure proxy and working directory
 set_config(use_proxy(#Proxy Infor Here))
-setwd("P:\\API\\LSID")
 
+#Import desired time series
 Vectors<-read.csv("Vector.csv")
 Vectors$Vector<-substring(Vectors$Vector,2)
 
@@ -442,7 +442,7 @@ for(i in 1:length(unique(Vectors$Indicator))){
 
 ####Deck####
 
-#Make the Deck
+#Make the Deck based on existing template
 my_pres<- read_pptx("S:\\SI Life Sciences\\13733-Economic Analysis_Pharma\\Data\\R Extract Project\\Charts and Templates\\ISED_BrandOverview-EN.pptx") %>% 
   #Title Slide
   add_slide(layout="Title", master="Office Theme") %>%
